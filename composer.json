@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/backup",
+    "name": "codica-studio/backup",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/backup",
+    "homepage": "https://github.com/codica-studio/backup",
     "license": "MIT",
     "authors": [
         {
