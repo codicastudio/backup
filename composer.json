@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/backup",
+    "name": "codicastudio/backup",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/backup",
@@ -63,6 +63,6 @@
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
